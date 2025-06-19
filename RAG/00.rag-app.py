@@ -56,11 +56,11 @@ def main():
                             "key": search_api_key,
                         },
                         # The following params are used to vectorize the query
-                        "query_type": "vector",
-                        "embedding_dependency": {
-                            "type": "deployment_name",
-                            "deployment_name": embedding_model,
-                        },
+                        "query_type": "simple",
+                        # "embedding_dependency": {
+                        #    "type": "deployment_name",
+                        #    "deployment_name": embedding_model,
+                        # },
                     }
                 }
             ],
