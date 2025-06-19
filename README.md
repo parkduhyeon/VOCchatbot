@@ -48,6 +48,7 @@
 ## 개선/고도화 필요사항
 1. 데이터가 들어가 있음에도 불구하고, 조회되지 않는다는 답변 출력
  - ![image](https://github.com/user-attachments/assets/fcd0699e-48e8-42cc-978b-d32b6ec6fe89)
+
    -> 벡터 검색의 확률적 특성 때문
    -> 데이터의 양질 문제도 존재
 
