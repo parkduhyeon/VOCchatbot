@@ -35,7 +35,7 @@
   
 4. 웹 앱 및 Streamlit 구현
    - Azure 웹 앱 사용 / UI: Streamlit 으로 구현
-   - https://duhyeon-webapp.azurewebsites.net/
+   - https://duhyeon-webapp-002.azurewebsites.net/
 
 ## 2차 구현 (수정 및 고도화)
 1. 프롬프트 엔지니어링으로 답변 Case 구분
